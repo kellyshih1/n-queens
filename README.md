@@ -1,4 +1,4 @@
-# N-Queen Problem Solver: Algorithm Comparison
+# N-Queen Problem with Genetic Algorithm 
 
 This project implements and compares three distinct search and optimization algorithms to solve the classic **N-Queen Problem**: placing $N$ non-attacking queens on an $N \times N$ chessboard.
 
